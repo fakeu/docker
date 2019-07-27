@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a0000000000001",
+    "user": "Чак Норис",
+    "avatar": "https://i.pravatar.cc/300?img=5",
+    "login": "admin",
+    "password": "admin",
+    "admin": true
+  },
+  {
+    "id": "u9333000183101",
+    "user": "Kate",
+    "avatar": "https://i.pravatar.cc/300?img=5",
+    "login": "test1",
+    "password": "test1",
+    "admin": false
+  },
+  {
+    "id": "u9333000183102",
+    "user": "Dave",
+    "avatar": "https://i.pravatar.cc/300?img=14",
+    "login": "test2",
+    "password": "test2",
+    "admin": false
+  },
+  {
+    "id": "u9333000183103",
+    "user": "Taylor",
+    "avatar": "https://i.pravatar.cc/300?img=12",
+    "login": "test3",
+    "password": "test3",
+    "admin": false
+  },
+  {
+    "id": "u9333000183105",
+    "user": "Kim",
+    "avatar": "https://i.pravatar.cc/300?img=31",
+    "login": "test4",
+    "password": "test4",
+    "admin": false
+  }
+]
